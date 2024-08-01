@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travel-Recommend-App/static/css/main.1d766016.css",
+    "main.js": "/Travel-Recommend-App/static/js/main.4a863cdc.js",
+    "index.html": "/Travel-Recommend-App/index.html",
+    "main.1d766016.css.map": "/Travel-Recommend-App/static/css/main.1d766016.css.map",
+    "main.4a863cdc.js.map": "/Travel-Recommend-App/static/js/main.4a863cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.4a863cdc.js"
+  ]
+}
