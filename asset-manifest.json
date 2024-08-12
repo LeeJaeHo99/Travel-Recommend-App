@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Travel-Recommend-App/static/css/main.385f5493.css",
-    "main.js": "/Travel-Recommend-App/static/js/main.15c4fbef.js",
+    "main.css": "/Travel-Recommend-App/static/css/main.945011ca.css",
+    "main.js": "/Travel-Recommend-App/static/js/main.6eb78485.js",
     "static/media/AppleSDGothicNeoL.ttf": "/Travel-Recommend-App/static/media/AppleSDGothicNeoL.0ed4f3cf8e0a053dbc9c.ttf",
     "static/media/AppleSDGothicNeoH.ttf": "/Travel-Recommend-App/static/media/AppleSDGothicNeoH.c9b896b8f1d363108e8c.ttf",
     "static/media/AppleSDGothicNeoB.ttf": "/Travel-Recommend-App/static/media/AppleSDGothicNeoB.4175a777557557f7d294.ttf",
     "static/media/AppleSDGothicNeoM.ttf": "/Travel-Recommend-App/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
     "static/media/AppleSDGothicNeoEB.ttf": "/Travel-Recommend-App/static/media/AppleSDGothicNeoEB.ea6bd07739f11db86707.ttf",
     "index.html": "/Travel-Recommend-App/index.html",
-    "main.385f5493.css.map": "/Travel-Recommend-App/static/css/main.385f5493.css.map",
-    "main.15c4fbef.js.map": "/Travel-Recommend-App/static/js/main.15c4fbef.js.map"
+    "main.945011ca.css.map": "/Travel-Recommend-App/static/css/main.945011ca.css.map",
+    "main.6eb78485.js.map": "/Travel-Recommend-App/static/js/main.6eb78485.js.map"
   },
   "entrypoints": [
-    "static/css/main.385f5493.css",
-    "static/js/main.15c4fbef.js"
+    "static/css/main.945011ca.css",
+    "static/js/main.6eb78485.js"
   ]
 }
