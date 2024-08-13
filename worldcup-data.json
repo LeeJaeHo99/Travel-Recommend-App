@@ -1,14 +1,62 @@
 [
     {
-        "lImg" : "seoul",
-        "lTitle" : "대한민국 / 서울",
-        "rImg" : "paris",
-        "rTitle" : "프랑스 / 파리"
+        "lImg" : "domestic",
+        "lTitle" : "국내여행",
+        "rImg" : "overseas",
+        "rTitle" : "해외여행"
     },
     {
-        "lImg" : "new-york",
-        "lTitle" : "미국 / 뉴욕",
-        "rImg" : "dokyo",
-        "rTitle" : "일본 / 도쿄"
+        "lImg" : "littleMoney",
+        "lTitle" : "가성비 여행",
+        "rImg" : "manyMoney",
+        "rTitle" : "사치 여행"
+    },
+    {
+        "lImg" : "orient",
+        "lTitle" : "동양",
+        "rImg" : "occident",
+        "rTitle" : "서양"
+    },
+    {
+        "lImg" : "alone",
+        "lTitle" : "혼자",
+        "rImg" : "severalPeople",
+        "rTitle" : "연인, 친구, 가족 등"
+    },
+    {
+        "lImg" : "mountain",
+        "lTitle" : "산",
+        "rImg" : "sea",
+        "rTitle" : "바다"
+    },
+    {
+        "lImg" : "activity",
+        "lTitle" : "액티비티",
+        "rImg" : "tour",
+        "rTitle" : "관광"
+    },
+    {
+        "lImg" : "food",
+        "lTitle" : "음식",
+        "rImg" : "sights",
+        "rTitle" : "관광지"
+    },
+    {
+        "lImg" : "famous",
+        "lTitle" : "유명한 관광지",
+        "rImg" : "notFamous",
+        "rTitle" : "한적한 관광지"
+    },
+    {
+        "lImg" : "shopping",
+        "lTitle" : "많은 쇼핑",
+        "rImg" : "notShopping",
+        "rTitle" : "적은 쇼핑"
+    },
+    {
+        "lImg" : "airplane",
+        "lTitle" : "비행기",
+        "rImg" : "train",
+        "rTitle" : "기차"
     }
 ]
