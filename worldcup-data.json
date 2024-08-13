@@ -1,0 +1,14 @@
+[
+    {
+        "lImg" : "seoul",
+        "lTitle" : "대한민국 / 서울",
+        "rImg" : "paris",
+        "rTitle" : "프랑스 / 파리"
+    },
+    {
+        "lImg" : "new-york",
+        "lTitle" : "미국 / 뉴욕",
+        "rImg" : "dokyo",
+        "rTitle" : "일본 / 도쿄"
+    }
+]
