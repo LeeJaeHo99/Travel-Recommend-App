@@ -1,0 +1,42 @@
+[
+    {
+        "country" : "인도",
+        "img" : "india"
+    },
+    {
+        "country" : "태국",
+        "img" : "thailand"
+    },
+    {
+        "country" : "중국",
+        "img" : "china"
+    },
+    {
+        "country" : "이탈리아",
+        "img" : "italy"
+    },
+    {
+        "country" : "일본",
+        "img" : "japan"
+    },
+    {
+        "country" : "네덜란드",
+        "img" : "netherlands"
+    },
+    {
+        "country" : "프랑스",
+        "img" : "france"
+    },
+    {
+        "country" : "호주",
+        "img" : "australia"
+    },
+    {
+        "country" : "스위스",
+        "img" : "switzerland"
+    },
+    {
+        "country" : "미국",
+        "img" : "usa"
+    }
+]
