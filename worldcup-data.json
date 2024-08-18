@@ -1,11 +1,5 @@
 [
     {
-        "lImg" : "domestic",
-        "lTitle" : "국내여행",
-        "rImg" : "overseas",
-        "rTitle" : "해외여행"
-    },
-    {
         "lImg" : "littleMoney",
         "lTitle" : "가성비 여행",
         "rImg" : "manyMoney",
@@ -16,6 +10,12 @@
         "lTitle" : "동양",
         "rImg" : "occident",
         "rTitle" : "서양"
+    },
+    {
+        "lImg" : "hot",
+        "lTitle" : "더운 지역",
+        "rImg" : "cold",
+        "rTitle" : "추운 지역"
     },
     {
         "lImg" : "alone",
