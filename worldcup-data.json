@@ -30,33 +30,33 @@
         "rTitle" : "바다"
     },
     {
-        "lImg" : "activity",
-        "lTitle" : "액티비티",
-        "rImg" : "tour",
-        "rTitle" : "관광"
+        "lImg" : "tour",
+        "lTitle" : "관광",
+        "rImg" : "activity",
+        "rTitle" : "액티비티"
     },
     {
-        "lImg" : "food",
-        "lTitle" : "음식",
-        "rImg" : "sights",
-        "rTitle" : "관광지"
+        "lImg" : "sights",
+        "lTitle" : "관광지",
+        "rImg" : "food",
+        "rTitle" : "음식"
     },
     {
-        "lImg" : "famous",
-        "lTitle" : "유명한 관광지",
-        "rImg" : "notFamous",
-        "rTitle" : "한적한 관광지"
+        "lImg" : "notFamous",
+        "lTitle" : "한적한 관광지",
+        "rImg" : "famous",
+        "rTitle" : "유명한 관광지"
     },
     {
-        "lImg" : "shopping",
-        "lTitle" : "많은 쇼핑",
-        "rImg" : "notShopping",
-        "rTitle" : "적은 쇼핑"
+        "lImg" : "notShopping",
+        "lTitle" : "적은 쇼핑",
+        "rImg" : "shopping",
+        "rTitle" : "많은 쇼핑"
     },
     {
-        "lImg" : "airplane",
-        "lTitle" : "비행기",
-        "rImg" : "train",
-        "rTitle" : "기차"
+        "lImg" : "train",
+        "lTitle" : "기차",
+        "rImg" : "airplane",
+        "rTitle" : "비행기"
     }
 ]
