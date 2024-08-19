@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Travel-Recommend-App/static/css/main.a4462711.css",
-    "main.js": "/Travel-Recommend-App/static/js/main.01958e02.js",
+    "main.css": "/Travel-Recommend-App/static/css/main.305d4b9f.css",
+    "main.js": "/Travel-Recommend-App/static/js/main.5ae084dc.js",
     "index.html": "/Travel-Recommend-App/index.html",
-    "main.a4462711.css.map": "/Travel-Recommend-App/static/css/main.a4462711.css.map",
-    "main.01958e02.js.map": "/Travel-Recommend-App/static/js/main.01958e02.js.map"
+    "main.305d4b9f.css.map": "/Travel-Recommend-App/static/css/main.305d4b9f.css.map",
+    "main.5ae084dc.js.map": "/Travel-Recommend-App/static/js/main.5ae084dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4462711.css",
-    "static/js/main.01958e02.js"
+    "static/css/main.305d4b9f.css",
+    "static/js/main.5ae084dc.js"
   ]
 }
